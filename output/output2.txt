@@ -1,0 +1,62 @@
+[Time:0][Total processes: 0][Completed processes: 0][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:0s; 
+[Time:1][Total processes: 2][Completed processes: 0][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:0s; 
+[Time:2][Total processes: 2][Completed processes: 0][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:0s; 
+[Time:3][Total processes: 2][Completed processes: 0][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:0s; 
+[Time:4][Total processes: 2][Completed processes: 0][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:0s; 
+[Time:5][Total processes: 2][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:5s; 
+[Time:6][Total processes: 2][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:5s; 
+[Time:7][Total processes: 2][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:5s; 
+[Time:8][Total processes: 2][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:5s; 
+[Time:9][Total processes: 2][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:5s; 
+[Time:10][Total processes: 2][Completed processes: 2][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:11][Total processes: 3][Completed processes: 2][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:12][Total processes: 3][Completed processes: 2][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:13][Total processes: 3][Completed processes: 2][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:14][Total processes: 3][Completed processes: 2][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:15][Total processes: 3][Completed processes: 3][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:16][Total processes: 4][Completed processes: 3][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:17][Total processes: 4][Completed processes: 3][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:18][Total processes: 4][Completed processes: 3][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:19][Total processes: 4][Completed processes: 3][Missed deadline times: 1]
+Average waiting time: [Process1]:10s; [Process2]:5s; 
+[Time:20][Total processes: 4][Completed processes: 4][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:21][Total processes: 5][Completed processes: 4][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:22][Total processes: 5][Completed processes: 4][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:23][Total processes: 5][Completed processes: 4][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:24][Total processes: 5][Completed processes: 4][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:25][Total processes: 5][Completed processes: 5][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:26][Total processes: 5][Completed processes: 5][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:27][Total processes: 5][Completed processes: 5][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:28][Total processes: 5][Completed processes: 5][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:29][Total processes: 5][Completed processes: 5][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
+[Time:30][Total processes: 5][Completed processes: 5][Missed deadline times: 1]
+Average waiting time: [Process1]:5s; [Process2]:5s; 
