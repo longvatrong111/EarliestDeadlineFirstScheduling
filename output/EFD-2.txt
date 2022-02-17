@@ -1,0 +1,1482 @@
+[Time:0][Total processes: 0][Completed processes: 0][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:0s; 
+[Time:1][Total processes: 2][Completed processes: 0][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:0s; 
+[Time:2][Total processes: 2][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:3][Total processes: 2][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:4][Total processes: 2][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:5][Total processes: 3][Completed processes: 1][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:6][Total processes: 3][Completed processes: 2][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:7][Total processes: 3][Completed processes: 2][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:8][Total processes: 3][Completed processes: 2][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:9][Total processes: 4][Completed processes: 2][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:10][Total processes: 4][Completed processes: 3][Missed deadline times: 0]
+Average waiting time: [Process1]:0s; [Process2]:4s; 
+[Time:11][Total processes: 4][Completed processes: 4][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:12][Total processes: 4][Completed processes: 4][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:13][Total processes: 5][Completed processes: 4][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:14][Total processes: 5][Completed processes: 5][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:15][Total processes: 5][Completed processes: 5][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:16][Total processes: 6][Completed processes: 5][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:17][Total processes: 6][Completed processes: 5][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:18][Total processes: 6][Completed processes: 5][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:19][Total processes: 6][Completed processes: 5][Missed deadline times: 0]
+Average waiting time: [Process1]:16s; [Process2]:4s; 
+[Time:20][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:21][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:22][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:23][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:24][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:25][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:26][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:27][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:28][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:29][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:30][Total processes: 6][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:31][Total processes: 7][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:32][Total processes: 7][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:33][Total processes: 7][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:34][Total processes: 7][Completed processes: 6][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:35][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:36][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:37][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:38][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:39][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:40][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:41][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:42][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:43][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:44][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:45][Total processes: 7][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:46][Total processes: 8][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:47][Total processes: 8][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:48][Total processes: 8][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:49][Total processes: 8][Completed processes: 7][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:50][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:51][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:52][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:53][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:54][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:55][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:56][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:57][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:58][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:59][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:60][Total processes: 8][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:61][Total processes: 9][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:62][Total processes: 9][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:63][Total processes: 9][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:64][Total processes: 9][Completed processes: 8][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:65][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:66][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:67][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:68][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:69][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:70][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:71][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:72][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:73][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:74][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:75][Total processes: 9][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:76][Total processes: 10][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:77][Total processes: 10][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:78][Total processes: 10][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:79][Total processes: 10][Completed processes: 9][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:80][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:81][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:82][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:83][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:84][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:85][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:86][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:87][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:88][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:89][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:90][Total processes: 10][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:91][Total processes: 11][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:92][Total processes: 11][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:93][Total processes: 11][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:94][Total processes: 11][Completed processes: 10][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:95][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:96][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:97][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:98][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:99][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:100][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:101][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:102][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:103][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:104][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:105][Total processes: 11][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:106][Total processes: 12][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:107][Total processes: 12][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:108][Total processes: 12][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:109][Total processes: 12][Completed processes: 11][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:110][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:111][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:112][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:113][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:114][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:115][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:116][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:117][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:118][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:119][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:120][Total processes: 12][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:121][Total processes: 13][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:122][Total processes: 13][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:123][Total processes: 13][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:124][Total processes: 13][Completed processes: 12][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:125][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:126][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:127][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:128][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:129][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:130][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:131][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:132][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:133][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:134][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:135][Total processes: 13][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:136][Total processes: 14][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:137][Total processes: 14][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:138][Total processes: 14][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:139][Total processes: 14][Completed processes: 13][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:140][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:141][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:142][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:143][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:144][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:145][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:146][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:147][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:148][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:149][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:150][Total processes: 14][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:151][Total processes: 15][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:152][Total processes: 15][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:153][Total processes: 15][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:154][Total processes: 15][Completed processes: 14][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:155][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:156][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:157][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:158][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:159][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:160][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:161][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:162][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:163][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:164][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:165][Total processes: 15][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:166][Total processes: 16][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:167][Total processes: 16][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:168][Total processes: 16][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:169][Total processes: 16][Completed processes: 15][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:170][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:171][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:172][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:173][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:174][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:175][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:176][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:177][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:178][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:179][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:180][Total processes: 16][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:181][Total processes: 17][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:182][Total processes: 17][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:183][Total processes: 17][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:184][Total processes: 17][Completed processes: 16][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:185][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:186][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:187][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:188][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:189][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:190][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:191][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:192][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:193][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:194][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:195][Total processes: 17][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:196][Total processes: 18][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:197][Total processes: 18][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:198][Total processes: 18][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:199][Total processes: 18][Completed processes: 17][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:200][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:201][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:202][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:203][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:204][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:205][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:206][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:207][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:208][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:209][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:210][Total processes: 18][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:211][Total processes: 19][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:212][Total processes: 19][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:213][Total processes: 19][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:214][Total processes: 19][Completed processes: 18][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:215][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:216][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:217][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:218][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:219][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:220][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:221][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:222][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:223][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:224][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:225][Total processes: 19][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:226][Total processes: 20][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:227][Total processes: 20][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:228][Total processes: 20][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:229][Total processes: 20][Completed processes: 19][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:230][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:231][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:232][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:233][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:234][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:235][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:236][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:237][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:238][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:239][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:240][Total processes: 20][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:241][Total processes: 21][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:242][Total processes: 21][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:243][Total processes: 21][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:244][Total processes: 21][Completed processes: 20][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:245][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:246][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:247][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:248][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:249][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:250][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:251][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:252][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:253][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:254][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:255][Total processes: 21][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:256][Total processes: 22][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:257][Total processes: 22][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:258][Total processes: 22][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:259][Total processes: 22][Completed processes: 21][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:260][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:261][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:262][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:263][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:264][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:265][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:266][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:267][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:268][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:269][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:270][Total processes: 22][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:271][Total processes: 23][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:272][Total processes: 23][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:273][Total processes: 23][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:274][Total processes: 23][Completed processes: 22][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:275][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:276][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:277][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:278][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:279][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:280][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:281][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:282][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:283][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:284][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:285][Total processes: 23][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:286][Total processes: 24][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:287][Total processes: 24][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:288][Total processes: 24][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:289][Total processes: 24][Completed processes: 23][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:290][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:291][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:292][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:293][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:294][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:295][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:296][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:297][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:298][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:299][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:300][Total processes: 24][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:301][Total processes: 25][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:302][Total processes: 25][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:303][Total processes: 25][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:304][Total processes: 25][Completed processes: 24][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:305][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:306][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:307][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:308][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:309][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:310][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:311][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:312][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:313][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:314][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:315][Total processes: 25][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:316][Total processes: 26][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:317][Total processes: 26][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:318][Total processes: 26][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:319][Total processes: 26][Completed processes: 25][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:320][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:321][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:322][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:323][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:324][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:325][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:326][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:327][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:328][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:329][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:330][Total processes: 26][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:331][Total processes: 27][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:332][Total processes: 27][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:333][Total processes: 27][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:334][Total processes: 27][Completed processes: 26][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:335][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:336][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:337][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:338][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:339][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:340][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:341][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:342][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:343][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:344][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:345][Total processes: 27][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:346][Total processes: 28][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:347][Total processes: 28][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:348][Total processes: 28][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:349][Total processes: 28][Completed processes: 27][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:350][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:351][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:352][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:353][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:354][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:355][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:356][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:357][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:358][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:359][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:360][Total processes: 28][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:361][Total processes: 29][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:362][Total processes: 29][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:363][Total processes: 29][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:364][Total processes: 29][Completed processes: 28][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:365][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:366][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:367][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:368][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:369][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:370][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:371][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:372][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:373][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:374][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:375][Total processes: 29][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:376][Total processes: 30][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:377][Total processes: 30][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:378][Total processes: 30][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:379][Total processes: 30][Completed processes: 29][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:380][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:381][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:382][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:383][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:384][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:385][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:386][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:387][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:388][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:389][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:390][Total processes: 30][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:391][Total processes: 31][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:392][Total processes: 31][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:393][Total processes: 31][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:394][Total processes: 31][Completed processes: 30][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:395][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:396][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:397][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:398][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:399][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:400][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:401][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:402][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:403][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:404][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:405][Total processes: 31][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:406][Total processes: 32][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:407][Total processes: 32][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:408][Total processes: 32][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:409][Total processes: 32][Completed processes: 31][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:410][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:411][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:412][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:413][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:414][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:415][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:416][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:417][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:418][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:419][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:420][Total processes: 32][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:421][Total processes: 33][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:422][Total processes: 33][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:423][Total processes: 33][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:424][Total processes: 33][Completed processes: 32][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:425][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:426][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:427][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:428][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:429][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:430][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:431][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:432][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:433][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:434][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:435][Total processes: 33][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:436][Total processes: 34][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:437][Total processes: 34][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:438][Total processes: 34][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:439][Total processes: 34][Completed processes: 33][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:440][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:441][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:442][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:443][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:444][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:445][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:446][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:447][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:448][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:449][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:450][Total processes: 34][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:451][Total processes: 35][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:452][Total processes: 35][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:453][Total processes: 35][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:454][Total processes: 35][Completed processes: 34][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:455][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:456][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:457][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:458][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:459][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:460][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:461][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:462][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:463][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:464][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:465][Total processes: 35][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:466][Total processes: 36][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:467][Total processes: 36][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:468][Total processes: 36][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:469][Total processes: 36][Completed processes: 35][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:470][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:471][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:472][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:473][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:474][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:475][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:476][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:477][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:478][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:479][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:480][Total processes: 36][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:481][Total processes: 37][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:482][Total processes: 37][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:483][Total processes: 37][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:484][Total processes: 37][Completed processes: 36][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:485][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:486][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:487][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:488][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:489][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:490][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:491][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:492][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:493][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:494][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:495][Total processes: 37][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:496][Total processes: 38][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:497][Total processes: 38][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:498][Total processes: 38][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:499][Total processes: 38][Completed processes: 37][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:500][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:501][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:502][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:503][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:504][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:505][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:506][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:507][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:508][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:509][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:510][Total processes: 38][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:511][Total processes: 39][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:512][Total processes: 39][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:513][Total processes: 39][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:514][Total processes: 39][Completed processes: 38][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:515][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:516][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:517][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:518][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:519][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:520][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:521][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:522][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:523][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:524][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:525][Total processes: 39][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:526][Total processes: 40][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:527][Total processes: 40][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:528][Total processes: 40][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:529][Total processes: 40][Completed processes: 39][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:530][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:531][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:532][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:533][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:534][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:535][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:536][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:537][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:538][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:539][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:540][Total processes: 40][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:541][Total processes: 41][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:542][Total processes: 41][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:543][Total processes: 41][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:544][Total processes: 41][Completed processes: 40][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:545][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:546][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:547][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:548][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:549][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:550][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:551][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:552][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:553][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:554][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:555][Total processes: 41][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:556][Total processes: 42][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:557][Total processes: 42][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:558][Total processes: 42][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:559][Total processes: 42][Completed processes: 41][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:560][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:561][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:562][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:563][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:564][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:565][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:566][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:567][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:568][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:569][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:570][Total processes: 42][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:571][Total processes: 43][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:572][Total processes: 43][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:573][Total processes: 43][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:574][Total processes: 43][Completed processes: 42][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:575][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:576][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:577][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:578][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:579][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:580][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:581][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:582][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:583][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:584][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:585][Total processes: 43][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:586][Total processes: 44][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:587][Total processes: 44][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:588][Total processes: 44][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:589][Total processes: 44][Completed processes: 43][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:590][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:591][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:592][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:593][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:594][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:595][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:596][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:597][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:598][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:599][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:600][Total processes: 44][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:601][Total processes: 45][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:602][Total processes: 45][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:603][Total processes: 45][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:604][Total processes: 45][Completed processes: 44][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:605][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:606][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:607][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:608][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:609][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:610][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:611][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:612][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:613][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:614][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:615][Total processes: 45][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:616][Total processes: 46][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:617][Total processes: 46][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:618][Total processes: 46][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:619][Total processes: 46][Completed processes: 45][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:620][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:621][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:622][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:623][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:624][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:625][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:626][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:627][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:628][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:629][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:630][Total processes: 46][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:631][Total processes: 47][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:632][Total processes: 47][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:633][Total processes: 47][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:634][Total processes: 47][Completed processes: 46][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:635][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:636][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:637][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:638][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:639][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:640][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:641][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:642][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:643][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:644][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:645][Total processes: 47][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:646][Total processes: 48][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:647][Total processes: 48][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:648][Total processes: 48][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:649][Total processes: 48][Completed processes: 47][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:650][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:651][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:652][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:653][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:654][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:655][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:656][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:657][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:658][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:659][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:660][Total processes: 48][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:661][Total processes: 49][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:662][Total processes: 49][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:663][Total processes: 49][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:664][Total processes: 49][Completed processes: 48][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:665][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:666][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:667][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:668][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:669][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:670][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:671][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:672][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:673][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:674][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:675][Total processes: 49][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:676][Total processes: 50][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:677][Total processes: 50][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:678][Total processes: 50][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:679][Total processes: 50][Completed processes: 49][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:680][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:681][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:682][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:683][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:684][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:685][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:686][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:687][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:688][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:689][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:690][Total processes: 50][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:691][Total processes: 51][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:692][Total processes: 51][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:693][Total processes: 51][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:694][Total processes: 51][Completed processes: 50][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:695][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:696][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:697][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:698][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:699][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:700][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:701][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:702][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:703][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:704][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:705][Total processes: 51][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:706][Total processes: 52][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:707][Total processes: 52][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:708][Total processes: 52][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:709][Total processes: 52][Completed processes: 51][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:710][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:711][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:712][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:713][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:714][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:715][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:716][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:717][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:718][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:719][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:720][Total processes: 52][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:721][Total processes: 53][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:722][Total processes: 53][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:723][Total processes: 53][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:724][Total processes: 53][Completed processes: 52][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:725][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:726][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:727][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:728][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:729][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:730][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:731][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:732][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:733][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:734][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:735][Total processes: 53][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:736][Total processes: 54][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:737][Total processes: 54][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:738][Total processes: 54][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:739][Total processes: 54][Completed processes: 53][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 
+[Time:740][Total processes: 54][Completed processes: 54][Missed deadline times: 0]
+Average waiting time: [Process1]:10s; [Process2]:4s; 

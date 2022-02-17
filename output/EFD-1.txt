@@ -1,0 +1,597 @@
+[JOIN]Process 1 has joined at timestamp 0. Processing time: 5; Perioid: 15;
+[JOIN]Process 2 has joined at timestamp 0. Processing time: 2; Perioid: 4;
+[START]Process 2 starts execution at timestamp 0
+[FINISH]Process 2 finishes execution at timestamp 2
+[START]Process 1 starts execution at timestamp 2
+[PREEMPTED]Process 1 is preempted by another process at 4. Remaining processing time: 3
+[START]Process 2 starts execution at timestamp 4
+[FINISH]Process 2 finishes execution at timestamp 6
+[RESUME]Process 1 resumes execution at timestamp 6
+[PREEMPTED]Process 1 is preempted by another process at 8. Remaining processing time: 1
+[START]Process 2 starts execution at timestamp 8
+[FINISH]Process 2 finishes execution at timestamp 10
+[RESUME]Process 1 resumes execution at timestamp 10
+[FINISH]Process 1 finishes execution at timestamp 11
+CPU is idle from timestamp 11 to 12
+[START]Process 2 starts execution at timestamp 12
+[FINISH]Process 2 finishes execution at timestamp 14
+CPU is idle from timestamp 14 to 15
+[START]Process 1 starts execution at timestamp 15
+[FINISH]Process 1 finishes execution at timestamp 20
+CPU is idle from timestamp 20 to 21
+CPU is idle from timestamp 21 to 22
+CPU is idle from timestamp 22 to 23
+CPU is idle from timestamp 23 to 24
+CPU is idle from timestamp 24 to 25
+CPU is idle from timestamp 25 to 26
+CPU is idle from timestamp 26 to 27
+CPU is idle from timestamp 27 to 28
+CPU is idle from timestamp 28 to 29
+CPU is idle from timestamp 29 to 30
+[START]Process 1 starts execution at timestamp 30
+[FINISH]Process 1 finishes execution at timestamp 35
+CPU is idle from timestamp 35 to 36
+CPU is idle from timestamp 36 to 37
+CPU is idle from timestamp 37 to 38
+CPU is idle from timestamp 38 to 39
+CPU is idle from timestamp 39 to 40
+CPU is idle from timestamp 40 to 41
+CPU is idle from timestamp 41 to 42
+CPU is idle from timestamp 42 to 43
+CPU is idle from timestamp 43 to 44
+CPU is idle from timestamp 44 to 45
+[START]Process 1 starts execution at timestamp 45
+[FINISH]Process 1 finishes execution at timestamp 50
+CPU is idle from timestamp 50 to 51
+CPU is idle from timestamp 51 to 52
+CPU is idle from timestamp 52 to 53
+CPU is idle from timestamp 53 to 54
+CPU is idle from timestamp 54 to 55
+CPU is idle from timestamp 55 to 56
+CPU is idle from timestamp 56 to 57
+CPU is idle from timestamp 57 to 58
+CPU is idle from timestamp 58 to 59
+CPU is idle from timestamp 59 to 60
+[START]Process 1 starts execution at timestamp 60
+[FINISH]Process 1 finishes execution at timestamp 65
+CPU is idle from timestamp 65 to 66
+CPU is idle from timestamp 66 to 67
+CPU is idle from timestamp 67 to 68
+CPU is idle from timestamp 68 to 69
+CPU is idle from timestamp 69 to 70
+CPU is idle from timestamp 70 to 71
+CPU is idle from timestamp 71 to 72
+CPU is idle from timestamp 72 to 73
+CPU is idle from timestamp 73 to 74
+CPU is idle from timestamp 74 to 75
+[START]Process 1 starts execution at timestamp 75
+[FINISH]Process 1 finishes execution at timestamp 80
+CPU is idle from timestamp 80 to 81
+CPU is idle from timestamp 81 to 82
+CPU is idle from timestamp 82 to 83
+CPU is idle from timestamp 83 to 84
+CPU is idle from timestamp 84 to 85
+CPU is idle from timestamp 85 to 86
+CPU is idle from timestamp 86 to 87
+CPU is idle from timestamp 87 to 88
+CPU is idle from timestamp 88 to 89
+CPU is idle from timestamp 89 to 90
+[START]Process 1 starts execution at timestamp 90
+[FINISH]Process 1 finishes execution at timestamp 95
+CPU is idle from timestamp 95 to 96
+CPU is idle from timestamp 96 to 97
+CPU is idle from timestamp 97 to 98
+CPU is idle from timestamp 98 to 99
+CPU is idle from timestamp 99 to 100
+CPU is idle from timestamp 100 to 101
+CPU is idle from timestamp 101 to 102
+CPU is idle from timestamp 102 to 103
+CPU is idle from timestamp 103 to 104
+CPU is idle from timestamp 104 to 105
+[START]Process 1 starts execution at timestamp 105
+[FINISH]Process 1 finishes execution at timestamp 110
+CPU is idle from timestamp 110 to 111
+CPU is idle from timestamp 111 to 112
+CPU is idle from timestamp 112 to 113
+CPU is idle from timestamp 113 to 114
+CPU is idle from timestamp 114 to 115
+CPU is idle from timestamp 115 to 116
+CPU is idle from timestamp 116 to 117
+CPU is idle from timestamp 117 to 118
+CPU is idle from timestamp 118 to 119
+CPU is idle from timestamp 119 to 120
+[START]Process 1 starts execution at timestamp 120
+[FINISH]Process 1 finishes execution at timestamp 125
+CPU is idle from timestamp 125 to 126
+CPU is idle from timestamp 126 to 127
+CPU is idle from timestamp 127 to 128
+CPU is idle from timestamp 128 to 129
+CPU is idle from timestamp 129 to 130
+CPU is idle from timestamp 130 to 131
+CPU is idle from timestamp 131 to 132
+CPU is idle from timestamp 132 to 133
+CPU is idle from timestamp 133 to 134
+CPU is idle from timestamp 134 to 135
+[START]Process 1 starts execution at timestamp 135
+[FINISH]Process 1 finishes execution at timestamp 140
+CPU is idle from timestamp 140 to 141
+CPU is idle from timestamp 141 to 142
+CPU is idle from timestamp 142 to 143
+CPU is idle from timestamp 143 to 144
+CPU is idle from timestamp 144 to 145
+CPU is idle from timestamp 145 to 146
+CPU is idle from timestamp 146 to 147
+CPU is idle from timestamp 147 to 148
+CPU is idle from timestamp 148 to 149
+CPU is idle from timestamp 149 to 150
+[START]Process 1 starts execution at timestamp 150
+[FINISH]Process 1 finishes execution at timestamp 155
+CPU is idle from timestamp 155 to 156
+CPU is idle from timestamp 156 to 157
+CPU is idle from timestamp 157 to 158
+CPU is idle from timestamp 158 to 159
+CPU is idle from timestamp 159 to 160
+CPU is idle from timestamp 160 to 161
+CPU is idle from timestamp 161 to 162
+CPU is idle from timestamp 162 to 163
+CPU is idle from timestamp 163 to 164
+CPU is idle from timestamp 164 to 165
+[START]Process 1 starts execution at timestamp 165
+[FINISH]Process 1 finishes execution at timestamp 170
+CPU is idle from timestamp 170 to 171
+CPU is idle from timestamp 171 to 172
+CPU is idle from timestamp 172 to 173
+CPU is idle from timestamp 173 to 174
+CPU is idle from timestamp 174 to 175
+CPU is idle from timestamp 175 to 176
+CPU is idle from timestamp 176 to 177
+CPU is idle from timestamp 177 to 178
+CPU is idle from timestamp 178 to 179
+CPU is idle from timestamp 179 to 180
+[START]Process 1 starts execution at timestamp 180
+[FINISH]Process 1 finishes execution at timestamp 185
+CPU is idle from timestamp 185 to 186
+CPU is idle from timestamp 186 to 187
+CPU is idle from timestamp 187 to 188
+CPU is idle from timestamp 188 to 189
+CPU is idle from timestamp 189 to 190
+CPU is idle from timestamp 190 to 191
+CPU is idle from timestamp 191 to 192
+CPU is idle from timestamp 192 to 193
+CPU is idle from timestamp 193 to 194
+CPU is idle from timestamp 194 to 195
+[START]Process 1 starts execution at timestamp 195
+[FINISH]Process 1 finishes execution at timestamp 200
+CPU is idle from timestamp 200 to 201
+CPU is idle from timestamp 201 to 202
+CPU is idle from timestamp 202 to 203
+CPU is idle from timestamp 203 to 204
+CPU is idle from timestamp 204 to 205
+CPU is idle from timestamp 205 to 206
+CPU is idle from timestamp 206 to 207
+CPU is idle from timestamp 207 to 208
+CPU is idle from timestamp 208 to 209
+CPU is idle from timestamp 209 to 210
+[START]Process 1 starts execution at timestamp 210
+[FINISH]Process 1 finishes execution at timestamp 215
+CPU is idle from timestamp 215 to 216
+CPU is idle from timestamp 216 to 217
+CPU is idle from timestamp 217 to 218
+CPU is idle from timestamp 218 to 219
+CPU is idle from timestamp 219 to 220
+CPU is idle from timestamp 220 to 221
+CPU is idle from timestamp 221 to 222
+CPU is idle from timestamp 222 to 223
+CPU is idle from timestamp 223 to 224
+CPU is idle from timestamp 224 to 225
+[START]Process 1 starts execution at timestamp 225
+[FINISH]Process 1 finishes execution at timestamp 230
+CPU is idle from timestamp 230 to 231
+CPU is idle from timestamp 231 to 232
+CPU is idle from timestamp 232 to 233
+CPU is idle from timestamp 233 to 234
+CPU is idle from timestamp 234 to 235
+CPU is idle from timestamp 235 to 236
+CPU is idle from timestamp 236 to 237
+CPU is idle from timestamp 237 to 238
+CPU is idle from timestamp 238 to 239
+CPU is idle from timestamp 239 to 240
+[START]Process 1 starts execution at timestamp 240
+[FINISH]Process 1 finishes execution at timestamp 245
+CPU is idle from timestamp 245 to 246
+CPU is idle from timestamp 246 to 247
+CPU is idle from timestamp 247 to 248
+CPU is idle from timestamp 248 to 249
+CPU is idle from timestamp 249 to 250
+CPU is idle from timestamp 250 to 251
+CPU is idle from timestamp 251 to 252
+CPU is idle from timestamp 252 to 253
+CPU is idle from timestamp 253 to 254
+CPU is idle from timestamp 254 to 255
+[START]Process 1 starts execution at timestamp 255
+[FINISH]Process 1 finishes execution at timestamp 260
+CPU is idle from timestamp 260 to 261
+CPU is idle from timestamp 261 to 262
+CPU is idle from timestamp 262 to 263
+CPU is idle from timestamp 263 to 264
+CPU is idle from timestamp 264 to 265
+CPU is idle from timestamp 265 to 266
+CPU is idle from timestamp 266 to 267
+CPU is idle from timestamp 267 to 268
+CPU is idle from timestamp 268 to 269
+CPU is idle from timestamp 269 to 270
+[START]Process 1 starts execution at timestamp 270
+[FINISH]Process 1 finishes execution at timestamp 275
+CPU is idle from timestamp 275 to 276
+CPU is idle from timestamp 276 to 277
+CPU is idle from timestamp 277 to 278
+CPU is idle from timestamp 278 to 279
+CPU is idle from timestamp 279 to 280
+CPU is idle from timestamp 280 to 281
+CPU is idle from timestamp 281 to 282
+CPU is idle from timestamp 282 to 283
+CPU is idle from timestamp 283 to 284
+CPU is idle from timestamp 284 to 285
+[START]Process 1 starts execution at timestamp 285
+[FINISH]Process 1 finishes execution at timestamp 290
+CPU is idle from timestamp 290 to 291
+CPU is idle from timestamp 291 to 292
+CPU is idle from timestamp 292 to 293
+CPU is idle from timestamp 293 to 294
+CPU is idle from timestamp 294 to 295
+CPU is idle from timestamp 295 to 296
+CPU is idle from timestamp 296 to 297
+CPU is idle from timestamp 297 to 298
+CPU is idle from timestamp 298 to 299
+CPU is idle from timestamp 299 to 300
+[START]Process 1 starts execution at timestamp 300
+[FINISH]Process 1 finishes execution at timestamp 305
+CPU is idle from timestamp 305 to 306
+CPU is idle from timestamp 306 to 307
+CPU is idle from timestamp 307 to 308
+CPU is idle from timestamp 308 to 309
+CPU is idle from timestamp 309 to 310
+CPU is idle from timestamp 310 to 311
+CPU is idle from timestamp 311 to 312
+CPU is idle from timestamp 312 to 313
+CPU is idle from timestamp 313 to 314
+CPU is idle from timestamp 314 to 315
+[START]Process 1 starts execution at timestamp 315
+[FINISH]Process 1 finishes execution at timestamp 320
+CPU is idle from timestamp 320 to 321
+CPU is idle from timestamp 321 to 322
+CPU is idle from timestamp 322 to 323
+CPU is idle from timestamp 323 to 324
+CPU is idle from timestamp 324 to 325
+CPU is idle from timestamp 325 to 326
+CPU is idle from timestamp 326 to 327
+CPU is idle from timestamp 327 to 328
+CPU is idle from timestamp 328 to 329
+CPU is idle from timestamp 329 to 330
+[START]Process 1 starts execution at timestamp 330
+[FINISH]Process 1 finishes execution at timestamp 335
+CPU is idle from timestamp 335 to 336
+CPU is idle from timestamp 336 to 337
+CPU is idle from timestamp 337 to 338
+CPU is idle from timestamp 338 to 339
+CPU is idle from timestamp 339 to 340
+CPU is idle from timestamp 340 to 341
+CPU is idle from timestamp 341 to 342
+CPU is idle from timestamp 342 to 343
+CPU is idle from timestamp 343 to 344
+CPU is idle from timestamp 344 to 345
+[START]Process 1 starts execution at timestamp 345
+[FINISH]Process 1 finishes execution at timestamp 350
+CPU is idle from timestamp 350 to 351
+CPU is idle from timestamp 351 to 352
+CPU is idle from timestamp 352 to 353
+CPU is idle from timestamp 353 to 354
+CPU is idle from timestamp 354 to 355
+CPU is idle from timestamp 355 to 356
+CPU is idle from timestamp 356 to 357
+CPU is idle from timestamp 357 to 358
+CPU is idle from timestamp 358 to 359
+CPU is idle from timestamp 359 to 360
+[START]Process 1 starts execution at timestamp 360
+[FINISH]Process 1 finishes execution at timestamp 365
+CPU is idle from timestamp 365 to 366
+CPU is idle from timestamp 366 to 367
+CPU is idle from timestamp 367 to 368
+CPU is idle from timestamp 368 to 369
+CPU is idle from timestamp 369 to 370
+CPU is idle from timestamp 370 to 371
+CPU is idle from timestamp 371 to 372
+CPU is idle from timestamp 372 to 373
+CPU is idle from timestamp 373 to 374
+CPU is idle from timestamp 374 to 375
+[START]Process 1 starts execution at timestamp 375
+[FINISH]Process 1 finishes execution at timestamp 380
+CPU is idle from timestamp 380 to 381
+CPU is idle from timestamp 381 to 382
+CPU is idle from timestamp 382 to 383
+CPU is idle from timestamp 383 to 384
+CPU is idle from timestamp 384 to 385
+CPU is idle from timestamp 385 to 386
+CPU is idle from timestamp 386 to 387
+CPU is idle from timestamp 387 to 388
+CPU is idle from timestamp 388 to 389
+CPU is idle from timestamp 389 to 390
+[START]Process 1 starts execution at timestamp 390
+[FINISH]Process 1 finishes execution at timestamp 395
+CPU is idle from timestamp 395 to 396
+CPU is idle from timestamp 396 to 397
+CPU is idle from timestamp 397 to 398
+CPU is idle from timestamp 398 to 399
+CPU is idle from timestamp 399 to 400
+CPU is idle from timestamp 400 to 401
+CPU is idle from timestamp 401 to 402
+CPU is idle from timestamp 402 to 403
+CPU is idle from timestamp 403 to 404
+CPU is idle from timestamp 404 to 405
+[START]Process 1 starts execution at timestamp 405
+[FINISH]Process 1 finishes execution at timestamp 410
+CPU is idle from timestamp 410 to 411
+CPU is idle from timestamp 411 to 412
+CPU is idle from timestamp 412 to 413
+CPU is idle from timestamp 413 to 414
+CPU is idle from timestamp 414 to 415
+CPU is idle from timestamp 415 to 416
+CPU is idle from timestamp 416 to 417
+CPU is idle from timestamp 417 to 418
+CPU is idle from timestamp 418 to 419
+CPU is idle from timestamp 419 to 420
+[START]Process 1 starts execution at timestamp 420
+[FINISH]Process 1 finishes execution at timestamp 425
+CPU is idle from timestamp 425 to 426
+CPU is idle from timestamp 426 to 427
+CPU is idle from timestamp 427 to 428
+CPU is idle from timestamp 428 to 429
+CPU is idle from timestamp 429 to 430
+CPU is idle from timestamp 430 to 431
+CPU is idle from timestamp 431 to 432
+CPU is idle from timestamp 432 to 433
+CPU is idle from timestamp 433 to 434
+CPU is idle from timestamp 434 to 435
+[START]Process 1 starts execution at timestamp 435
+[FINISH]Process 1 finishes execution at timestamp 440
+CPU is idle from timestamp 440 to 441
+CPU is idle from timestamp 441 to 442
+CPU is idle from timestamp 442 to 443
+CPU is idle from timestamp 443 to 444
+CPU is idle from timestamp 444 to 445
+CPU is idle from timestamp 445 to 446
+CPU is idle from timestamp 446 to 447
+CPU is idle from timestamp 447 to 448
+CPU is idle from timestamp 448 to 449
+CPU is idle from timestamp 449 to 450
+[START]Process 1 starts execution at timestamp 450
+[FINISH]Process 1 finishes execution at timestamp 455
+CPU is idle from timestamp 455 to 456
+CPU is idle from timestamp 456 to 457
+CPU is idle from timestamp 457 to 458
+CPU is idle from timestamp 458 to 459
+CPU is idle from timestamp 459 to 460
+CPU is idle from timestamp 460 to 461
+CPU is idle from timestamp 461 to 462
+CPU is idle from timestamp 462 to 463
+CPU is idle from timestamp 463 to 464
+CPU is idle from timestamp 464 to 465
+[START]Process 1 starts execution at timestamp 465
+[FINISH]Process 1 finishes execution at timestamp 470
+CPU is idle from timestamp 470 to 471
+CPU is idle from timestamp 471 to 472
+CPU is idle from timestamp 472 to 473
+CPU is idle from timestamp 473 to 474
+CPU is idle from timestamp 474 to 475
+CPU is idle from timestamp 475 to 476
+CPU is idle from timestamp 476 to 477
+CPU is idle from timestamp 477 to 478
+CPU is idle from timestamp 478 to 479
+CPU is idle from timestamp 479 to 480
+[START]Process 1 starts execution at timestamp 480
+[FINISH]Process 1 finishes execution at timestamp 485
+CPU is idle from timestamp 485 to 486
+CPU is idle from timestamp 486 to 487
+CPU is idle from timestamp 487 to 488
+CPU is idle from timestamp 488 to 489
+CPU is idle from timestamp 489 to 490
+CPU is idle from timestamp 490 to 491
+CPU is idle from timestamp 491 to 492
+CPU is idle from timestamp 492 to 493
+CPU is idle from timestamp 493 to 494
+CPU is idle from timestamp 494 to 495
+[START]Process 1 starts execution at timestamp 495
+[FINISH]Process 1 finishes execution at timestamp 500
+CPU is idle from timestamp 500 to 501
+CPU is idle from timestamp 501 to 502
+CPU is idle from timestamp 502 to 503
+CPU is idle from timestamp 503 to 504
+CPU is idle from timestamp 504 to 505
+CPU is idle from timestamp 505 to 506
+CPU is idle from timestamp 506 to 507
+CPU is idle from timestamp 507 to 508
+CPU is idle from timestamp 508 to 509
+CPU is idle from timestamp 509 to 510
+[START]Process 1 starts execution at timestamp 510
+[FINISH]Process 1 finishes execution at timestamp 515
+CPU is idle from timestamp 515 to 516
+CPU is idle from timestamp 516 to 517
+CPU is idle from timestamp 517 to 518
+CPU is idle from timestamp 518 to 519
+CPU is idle from timestamp 519 to 520
+CPU is idle from timestamp 520 to 521
+CPU is idle from timestamp 521 to 522
+CPU is idle from timestamp 522 to 523
+CPU is idle from timestamp 523 to 524
+CPU is idle from timestamp 524 to 525
+[START]Process 1 starts execution at timestamp 525
+[FINISH]Process 1 finishes execution at timestamp 530
+CPU is idle from timestamp 530 to 531
+CPU is idle from timestamp 531 to 532
+CPU is idle from timestamp 532 to 533
+CPU is idle from timestamp 533 to 534
+CPU is idle from timestamp 534 to 535
+CPU is idle from timestamp 535 to 536
+CPU is idle from timestamp 536 to 537
+CPU is idle from timestamp 537 to 538
+CPU is idle from timestamp 538 to 539
+CPU is idle from timestamp 539 to 540
+[START]Process 1 starts execution at timestamp 540
+[FINISH]Process 1 finishes execution at timestamp 545
+CPU is idle from timestamp 545 to 546
+CPU is idle from timestamp 546 to 547
+CPU is idle from timestamp 547 to 548
+CPU is idle from timestamp 548 to 549
+CPU is idle from timestamp 549 to 550
+CPU is idle from timestamp 550 to 551
+CPU is idle from timestamp 551 to 552
+CPU is idle from timestamp 552 to 553
+CPU is idle from timestamp 553 to 554
+CPU is idle from timestamp 554 to 555
+[START]Process 1 starts execution at timestamp 555
+[FINISH]Process 1 finishes execution at timestamp 560
+CPU is idle from timestamp 560 to 561
+CPU is idle from timestamp 561 to 562
+CPU is idle from timestamp 562 to 563
+CPU is idle from timestamp 563 to 564
+CPU is idle from timestamp 564 to 565
+CPU is idle from timestamp 565 to 566
+CPU is idle from timestamp 566 to 567
+CPU is idle from timestamp 567 to 568
+CPU is idle from timestamp 568 to 569
+CPU is idle from timestamp 569 to 570
+[START]Process 1 starts execution at timestamp 570
+[FINISH]Process 1 finishes execution at timestamp 575
+CPU is idle from timestamp 575 to 576
+CPU is idle from timestamp 576 to 577
+CPU is idle from timestamp 577 to 578
+CPU is idle from timestamp 578 to 579
+CPU is idle from timestamp 579 to 580
+CPU is idle from timestamp 580 to 581
+CPU is idle from timestamp 581 to 582
+CPU is idle from timestamp 582 to 583
+CPU is idle from timestamp 583 to 584
+CPU is idle from timestamp 584 to 585
+[START]Process 1 starts execution at timestamp 585
+[FINISH]Process 1 finishes execution at timestamp 590
+CPU is idle from timestamp 590 to 591
+CPU is idle from timestamp 591 to 592
+CPU is idle from timestamp 592 to 593
+CPU is idle from timestamp 593 to 594
+CPU is idle from timestamp 594 to 595
+CPU is idle from timestamp 595 to 596
+CPU is idle from timestamp 596 to 597
+CPU is idle from timestamp 597 to 598
+CPU is idle from timestamp 598 to 599
+CPU is idle from timestamp 599 to 600
+[START]Process 1 starts execution at timestamp 600
+[FINISH]Process 1 finishes execution at timestamp 605
+CPU is idle from timestamp 605 to 606
+CPU is idle from timestamp 606 to 607
+CPU is idle from timestamp 607 to 608
+CPU is idle from timestamp 608 to 609
+CPU is idle from timestamp 609 to 610
+CPU is idle from timestamp 610 to 611
+CPU is idle from timestamp 611 to 612
+CPU is idle from timestamp 612 to 613
+CPU is idle from timestamp 613 to 614
+CPU is idle from timestamp 614 to 615
+[START]Process 1 starts execution at timestamp 615
+[FINISH]Process 1 finishes execution at timestamp 620
+CPU is idle from timestamp 620 to 621
+CPU is idle from timestamp 621 to 622
+CPU is idle from timestamp 622 to 623
+CPU is idle from timestamp 623 to 624
+CPU is idle from timestamp 624 to 625
+CPU is idle from timestamp 625 to 626
+CPU is idle from timestamp 626 to 627
+CPU is idle from timestamp 627 to 628
+CPU is idle from timestamp 628 to 629
+CPU is idle from timestamp 629 to 630
+[START]Process 1 starts execution at timestamp 630
+[FINISH]Process 1 finishes execution at timestamp 635
+CPU is idle from timestamp 635 to 636
+CPU is idle from timestamp 636 to 637
+CPU is idle from timestamp 637 to 638
+CPU is idle from timestamp 638 to 639
+CPU is idle from timestamp 639 to 640
+CPU is idle from timestamp 640 to 641
+CPU is idle from timestamp 641 to 642
+CPU is idle from timestamp 642 to 643
+CPU is idle from timestamp 643 to 644
+CPU is idle from timestamp 644 to 645
+[START]Process 1 starts execution at timestamp 645
+[FINISH]Process 1 finishes execution at timestamp 650
+CPU is idle from timestamp 650 to 651
+CPU is idle from timestamp 651 to 652
+CPU is idle from timestamp 652 to 653
+CPU is idle from timestamp 653 to 654
+CPU is idle from timestamp 654 to 655
+CPU is idle from timestamp 655 to 656
+CPU is idle from timestamp 656 to 657
+CPU is idle from timestamp 657 to 658
+CPU is idle from timestamp 658 to 659
+CPU is idle from timestamp 659 to 660
+[START]Process 1 starts execution at timestamp 660
+[FINISH]Process 1 finishes execution at timestamp 665
+CPU is idle from timestamp 665 to 666
+CPU is idle from timestamp 666 to 667
+CPU is idle from timestamp 667 to 668
+CPU is idle from timestamp 668 to 669
+CPU is idle from timestamp 669 to 670
+CPU is idle from timestamp 670 to 671
+CPU is idle from timestamp 671 to 672
+CPU is idle from timestamp 672 to 673
+CPU is idle from timestamp 673 to 674
+CPU is idle from timestamp 674 to 675
+[START]Process 1 starts execution at timestamp 675
+[FINISH]Process 1 finishes execution at timestamp 680
+CPU is idle from timestamp 680 to 681
+CPU is idle from timestamp 681 to 682
+CPU is idle from timestamp 682 to 683
+CPU is idle from timestamp 683 to 684
+CPU is idle from timestamp 684 to 685
+CPU is idle from timestamp 685 to 686
+CPU is idle from timestamp 686 to 687
+CPU is idle from timestamp 687 to 688
+CPU is idle from timestamp 688 to 689
+CPU is idle from timestamp 689 to 690
+[START]Process 1 starts execution at timestamp 690
+[FINISH]Process 1 finishes execution at timestamp 695
+CPU is idle from timestamp 695 to 696
+CPU is idle from timestamp 696 to 697
+CPU is idle from timestamp 697 to 698
+CPU is idle from timestamp 698 to 699
+CPU is idle from timestamp 699 to 700
+CPU is idle from timestamp 700 to 701
+CPU is idle from timestamp 701 to 702
+CPU is idle from timestamp 702 to 703
+CPU is idle from timestamp 703 to 704
+CPU is idle from timestamp 704 to 705
+[START]Process 1 starts execution at timestamp 705
+[FINISH]Process 1 finishes execution at timestamp 710
+CPU is idle from timestamp 710 to 711
+CPU is idle from timestamp 711 to 712
+CPU is idle from timestamp 712 to 713
+CPU is idle from timestamp 713 to 714
+CPU is idle from timestamp 714 to 715
+CPU is idle from timestamp 715 to 716
+CPU is idle from timestamp 716 to 717
+CPU is idle from timestamp 717 to 718
+CPU is idle from timestamp 718 to 719
+CPU is idle from timestamp 719 to 720
+[START]Process 1 starts execution at timestamp 720
+[FINISH]Process 1 finishes execution at timestamp 725
+CPU is idle from timestamp 725 to 726
+CPU is idle from timestamp 726 to 727
+CPU is idle from timestamp 727 to 728
+CPU is idle from timestamp 728 to 729
+CPU is idle from timestamp 729 to 730
+CPU is idle from timestamp 730 to 731
+CPU is idle from timestamp 731 to 732
+CPU is idle from timestamp 732 to 733
+CPU is idle from timestamp 733 to 734
+CPU is idle from timestamp 734 to 735
+[START]Process 1 starts execution at timestamp 735
+[FINISH]Process 1 finishes execution at timestamp 740
+CPU is idle from timestamp 740 to 741
